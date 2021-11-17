@@ -1,0 +1,8 @@
+#archives
+.env
+
+#folders 
+/node_modules
+
+#PDF del Práctico 1- MERN
+*.pdf
